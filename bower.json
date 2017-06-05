@@ -1,0 +1,17 @@
+{
+  "name": "project4",
+  "description": "### Overview",
+  "main": "index.js",
+  "authors": [
+    "lgmusic24 <lgmusic24@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ga-wdi-exercises/project4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

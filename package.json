@@ -4,9 +4,14 @@
   "description": "### Overview",
   "main": "index.js",
   "dependencies": {
+    "config": "^1.26.1",
+    "config-js": "^1.1.9",
     "expres": "^0.0.5",
-    "hbs": "^4.0.1",
     "express": "^4.15.3",
+    "hbs": "^4.0.1",
+    "index.js": "0.0.3",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.10.4",
     "pug": "^2.0.0-rc.2"
   },
   "devDependencies": {},
